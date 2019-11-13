@@ -2,6 +2,7 @@
 > IUT2 ~ PHP
 
 Site internet de partage de recette de barbecue réalisé en deuxième année d'IUT.
+Ce projet avait pour but de découvrir PHP et d'implémenter une strucuture MVC.
 
 ## Spécificités
 
