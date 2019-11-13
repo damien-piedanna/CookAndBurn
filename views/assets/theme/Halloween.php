@@ -1,0 +1,1 @@
+<img alt="Image de fond" src="https://parc.branfere.com/wp-content/uploads/sites/2/2018/10/halloween-branfe%CC%81re%CC%81-1200x675.png" style="position: fixed; top: 0; z-index: -5; height: 100%">

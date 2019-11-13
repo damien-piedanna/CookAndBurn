@@ -1,0 +1,27 @@
+/* Navbar animation */
+.navbar {
+    background-color: rgba(0, 0, 0, 0.2); }
+
+.top-nav-collapse {
+    background-color: #2f2c2c; }
+
+/* Adding color to the Navbar on mobile */
+@media only screen and (max-width: 768px) {
+    .navbar {
+        background-color: #2f2c2c; } }
+
+/* Footer color for sake of consistency with Navbar */
+.page-footer {
+    background-color: #2f2c2c; }
+
+html,
+body,
+.carousel {
+    height: 60vh;
+}
+
+@media (min-width: 800px) and (max-width: 850px) {
+    .navbar:not(.top-nav-collapse) {
+        background: #929FBA!important;
+    }
+}
