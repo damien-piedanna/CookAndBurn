@@ -14,6 +14,7 @@ Site internet de partage de recette de barbecue réalisé en deuxième année d'
 * Interface de gestion des recettes, ingrédients, utilisateurs et paramètres du site pour l'administrateur
 * Système de pagination
 * Gestion de "Thème" pour l'écran d'acceuil
+* ...
 
 ## Outils utilisés
 
