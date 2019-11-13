@@ -1,4 +1,4 @@
-# CookAndBuurn
+# CookAndBurn
 > IUT2 ~ PHP
 
 Site internet de partage de recette de barbecue réalisé en deuxième année d'IUT.
