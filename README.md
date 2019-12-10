@@ -6,15 +6,15 @@ Ce projet avait pour but de découvrir PHP et d'implémenter une strucuture MVC.
 
 ## Spécificités
 
-* Différent compte Utilisateur / Modérateur et Administrateur
-* Possibilité de créer, modifier et supprimer une recette
-* Possibilité de "burn" (like) une recette et de la mettre en favoris
-* Possibilité de partager des recettes sur Twitter et Facebook
-* Possibilité d'annoter des recettes
-* Possibilité de changer son mot de passe
-* Interface de gestion des recettes, ingrédients, utilisateurs et paramètres du site pour l'administrateur
-* Système de pagination
-* Gestion de "Thème" pour l'écran d'acceuil
+* Différent compte Utilisateur / Modérateur et Administrateur.
+* Possibilité de créer, modifier et supprimer une recette.
+* Possibilité de "burn" (like) une recette et de la mettre en favoris.
+* Possibilité de partager des recettes sur Twitter et Facebook.
+* Possibilité d'annoter des recettes.
+* Possibilité de changer son mot de passe.
+* Interface de gestion des recettes, ingrédients, utilisateurs et paramètres du site pour l'administrateur.
+* Système de pagination.
+* Gestion de "Thème" pour l'écran d'accueil.
 * ...
 
 ## Outils utilisés
